@@ -1,4 +1,4 @@
-# NLW eSports
+# Meus Games e Stremers favoritos
 > Trilha explorer
 
 ![preview](./assets/preview.png)
