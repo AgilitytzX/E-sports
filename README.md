@@ -5,7 +5,7 @@
 
 Project built at Rocketseat's Next Level Week event
 
-[🔗 click here to access](https://agilitytzx.github.io/Nlw-Esports/)
+[🔗 click here to access](https://agilitytzx.github.io/E-sports/)
 
 
 ## 🛠 Technologies
